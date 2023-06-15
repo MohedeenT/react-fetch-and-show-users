@@ -1,6 +1,7 @@
 {
   "name": "fetch-and-show-users",
   "version": "0.1.0",
+  "homepage": "https://mohedeent.github.io/react-fetch-and-show-users/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
